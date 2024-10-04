@@ -1,11 +1,11 @@
 ## Hi there 👋
-- 🔭 Estudiante de la Licenciatura de Ciencias de datos https://www.austral.edu.ar/ 
-- 🌍 Idiomas :
--Español(nativo)
--Ingles(B2)
--Portugues(Basico)
-- ✍️ Conocimineto en lenguajes de programacion:
+- 🔭 Student of Data Sciences https://www.austral.edu.ar/ 
+- 🌍 Languages :
+-Spanish(native)
+-English(B2)
+-Portuguese(Basic)
+- ✍️ knowledge in:
 R,Python,HTML,CSS,JavaScript
-- 💬 Preguntame sobre: Hockey,Autos,Futbol
-- 📫 Contacto:bcarrara@mail.austral.edu.ar
+- 💬 Ask me about: Sports
+- 📫 Contact:bcarrara@mail.austral.edu.ar
 
